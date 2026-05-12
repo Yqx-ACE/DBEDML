@@ -3,7 +3,7 @@ DBEDML: Dual Branch Energy-Driven Meta-Learning for Hyperspectral Imagery Cross-
 The code in this toolbox implements the DBEDML: Dual Branch Energy-Driven Meta-Learning for Hyperspectral Imagery Cross-Domain Few-Shot Open-set Recognition. More specifically, it is detailed as follow.
 
 
-![](https://github.com/Yqx-ACE/TGRS_2026_DBEDML/blob/main/2026-1-30 模型框架图.pdf)  
+![](https://github.com/Yqx-ACE/TGRS_2026_DBEDML/blob/main/2026-1-30%20模型框架图.pdf)  
 
 
 Configuration
