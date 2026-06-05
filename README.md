@@ -5,19 +5,18 @@ The code in this toolbox implements the "[DBEDML: Dual Branch Energy-Driven Meta
 
 Citation
 ---
-* Q. Yu et al., "DBEDML: Dual Branch Energy-Driven Meta-Learning for Hyperspectral Imagery Cross-Domain Few-Shot Open-set Recognition," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3693047.
+* Q. Yu et al., "DBEDML: Dual-Branch Energy-Driven Meta-Learning for Hyperspectral Imagery Cross-Domain Few-Shot Open-Set Recognition," in IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 5515015-5515015, 2026, Art no. 5515015, doi: 10.1109/TGRS.2026.3693047.
 * 
 ```javascript
 @ARTICLE{11517566,
   author={Yu, Qixing and Li, Zhongwei and Guo, Fangming and Xin, Ziqi and Ren, Guangbo and Wang, Jianbu and Bi, Zhenggang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={DBEDML: Dual Branch Energy-Driven Meta-Learning for Hyperspectral Imagery Cross-Domain Few-Shot Open-set Recognition}, 
+  title={DBEDML: Dual-Branch Energy-Driven Meta-Learning for Hyperspectral Imagery Cross-Domain Few-Shot Open-Set Recognition}, 
   year={2026},
-  volume={},
+  volume={64},
   number={},
-  pages={1-1},
+  pages={5515015-5515015},
   doi={10.1109/TGRS.2026.3693047}}
-
 ```
 
 Configuration
